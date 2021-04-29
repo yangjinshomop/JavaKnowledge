@@ -1,0 +1,15 @@
+* reflect  
+  * [Type](https://github.com/yangjinshomop/JavaKnowledge/issues/5)
+    * [GenericDeclaration](https://github.com/yangjinshomop/JavaKnowledge/issues/3)
+    * [TypeVariable](https://github.com/yangjinshomop/JavaKnowledge/issues/4)
+    * [WildcardType](https://github.com/yangjinshomop/JavaKnowledge/issues/6)
+  * [AnnotatedElement](https://github.com/yangjinshomop/JavaKnowledge/issues/7)
+* [Unsafe](https://github.com/yangjinshomop/JavaKnowledge/issues/8)
+* [final](https://github.com/yangjinshomop/JavaKnowledge/issues/9)
+* [volatile](https://github.com/yangjinshomop/JavaKnowledge/issues/10)
+* [位运算符](https://github.com/yangjinshomop/JavaKnowledge/issues/11)
+* [为什么双重检查锁模式需要 volatile](https://github.com/yangjinshomop/JavaKnowledge/issues/12)
+* [伪共享](https://github.com/yangjinshomop/JavaKnowledge/issues/13)
+* util 
+  * [ConcurrentHashMap](https://github.com/yangjinshomop/JavaKnowledge/issues/1)
+  * [HashMap](https://github.com/yangjinshomop/JavaKnowledge/issues/1)
